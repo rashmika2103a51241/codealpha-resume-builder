@@ -1,0 +1,30 @@
+#cv-form {
+   /* display: none;  */
+} 
+
+#cv-template {
+    display: none;
+}
+
+.myimg {
+    border-radius: 40%;
+    width: 150px;
+}
+
+.background{
+    background-color: burlywood;
+}
+
+/*ul{
+    padding-left: 0.5em;
+}
+ul li{
+    align-items: center;
+    list-style-type: none;
+    padding-left: 0.5em;
+}
+
+ul li span{
+    display: block;
+    margin-left: -0.5em;
+}*/
